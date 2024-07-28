@@ -65,13 +65,13 @@ where `x0` is the location parameter and `gamma > 0` is the scale parameter.
 ## Usage
 
 ```javascript
-import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-pdf@esm/index.mjs';
+import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-pdf@v0.2.2-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-pdf@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-pdf@v0.2.2-esm/index.mjs';
 ```
 
 #### pdf( x, x0, gamma )
@@ -144,7 +144,7 @@ y = mypdf( 5.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-pdf@esm/index.mjs';
+import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-pdf@v0.2.2-esm/index.mjs';
 
 var gamma;
 var x0;
