@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-17)
+## Unreleased (2025-02-21)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`7fc07a2`](https://github.com/stdlib-js/stdlib/commit/7fc07a2122bb9e862ae7e2237dd48096051199dd) - **docs:** fix missing section tags in various READMEs [(#5322)](https://github.com/stdlib-js/stdlib/pull/5322) _(by Saurabh Singh)_
 -   [`427d616`](https://github.com/stdlib-js/stdlib/commit/427d616af6cd3690fc65f658bdfd016ad4f49102) - **chore:** address commit comments and update tests [(#5264)](https://github.com/stdlib-js/stdlib/pull/5264) _(by Saurabh Singh)_
 -   [`eaecb57`](https://github.com/stdlib-js/stdlib/commit/eaecb576d77de0a0773f262b59da7a2cee740119) - **feat:** add C implementation of `stats/base/dists/cauchy/pdf` [(#4393)](https://github.com/stdlib-js/stdlib/pull/4393) _(by Vinit Pandit, stdlib-bot, Philipp Burckhardt)_
 -   [`f2d2150`](https://github.com/stdlib-js/stdlib/commit/f2d21507493d82265ec30daa3aa00a0829e902c9) - **bench:** refactor random number generation in `stats/base/dists/cauchy` [(#4850)](https://github.com/stdlib-js/stdlib/pull/4850) _(by Karan Anand)_
