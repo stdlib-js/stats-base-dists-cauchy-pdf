@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-01)
+## Unreleased (2025-05-04)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`ca3d958`](https://github.com/stdlib-js/stdlib/commit/ca3d958f22927d6a6d4af71f50b92b5f7be27d7c) - **docs:** replace manual `for` loop in examples [(#6919)](https://github.com/stdlib-js/stdlib/pull/6919) _(by Harsh, Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`7fc07a2`](https://github.com/stdlib-js/stdlib/commit/7fc07a2122bb9e862ae7e2237dd48096051199dd) - **docs:** fix missing section tags in various READMEs [(#5322)](https://github.com/stdlib-js/stdlib/pull/5322) _(by Saurabh Singh)_
 -   [`427d616`](https://github.com/stdlib-js/stdlib/commit/427d616af6cd3690fc65f658bdfd016ad4f49102) - **chore:** address commit comments and update tests [(#5264)](https://github.com/stdlib-js/stdlib/pull/5264) _(by Saurabh Singh)_
@@ -50,8 +51,9 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Harsh
 -   Karan Anand
 -   Philipp Burckhardt
 -   Saurabh Singh
