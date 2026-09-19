@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-15)
+## Unreleased (2026-09-19)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`1936b0b`](https://github.com/stdlib-js/stdlib/commit/1936b0bdf1e7f3a459e0a93666f63d4f2f907045) - **test:** migrate `stats/base/dists/cauchy/pdf` to ULP-based assertions [(#15349)](https://github.com/stdlib-js/stdlib/pull/15349) _(by Athan Reines)_
 -   [`2180fed`](https://github.com/stdlib-js/stdlib/commit/2180fed844c032e1dd39b8465fa44d934b3d94fc) - **docs:** add link [(#13406)](https://github.com/stdlib-js/stdlib/pull/13406) _(by Philipp Burckhardt)_
 -   [`0a5fc6c`](https://github.com/stdlib-js/stdlib/commit/0a5fc6c32eaf8c2efa5f466c33a71c99666db61e) - **refactor:** order validation checks by parameter position in `stats/base/dists/cauchy/*` [(#11942)](https://github.com/stdlib-js/stdlib/pull/11942) _(by Philipp Burckhardt)_
 -   [`6a4d961`](https://github.com/stdlib-js/stdlib/commit/6a4d9614841138f791bfad6fc7d694dffff81a6c) - **docs:** propagate recent doc fixes across `stats/base/dists/*` [(#11815)](https://github.com/stdlib-js/stdlib/pull/11815) _(by Philipp Burckhardt)_
